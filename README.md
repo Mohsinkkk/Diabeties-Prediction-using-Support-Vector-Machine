@@ -1,0 +1,1 @@
+# Diabeties-Prediction-using-Support-Vector-Machine
